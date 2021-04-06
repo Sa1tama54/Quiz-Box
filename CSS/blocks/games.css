@@ -1,0 +1,23 @@
+.games {
+  background: url('../../assets/background/bg__services.png') center top no-repeat;
+  background-blend-mode: luminosity;
+  background-color: #17191C;
+  min-height: 412px;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 21px;
+}
+
+.games__container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  flex: 1;
+}
+
+.games__title {
+  font-weight: bold;
+  font-size: 72px;
+  margin-bottom: 34px;
+  letter-spacing: 5px;
+}

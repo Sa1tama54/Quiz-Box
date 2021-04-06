@@ -1,0 +1,39 @@
+.btn {
+  display: inline-block;
+  border-radius: 5px;
+  padding: 18px 38px;
+  font-size: 14px;
+  font-weight: bold;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #741BBA;
+}
+
+.btn--color--purple{
+  background: #8F00FF;
+  color: #fff;
+}
+
+.btn__wrapper {
+  margin-top: auto;
+}
+
+.btn--color--white {
+  background: #fff;
+  color: #8F00FF;
+  border: 1px solid #8F00FF;
+  padding: 17px 30px;
+}
+
+.btn--color--white:hover {
+  color: #fff;
+  background: #8F00FF;
+}
+
+.btn--color--gradient {
+  border: 1px solid #fff;
+  padding: 13px 39px;
+}
